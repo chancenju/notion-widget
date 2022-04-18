@@ -35,5 +35,5 @@ async function addItem(text) {
     console.error(error.body)
   }
 }
-
+ 
 addItem("Yurts in Big Sur, California")
